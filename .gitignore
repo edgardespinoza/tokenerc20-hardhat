@@ -1,0 +1,7 @@
+.secret
+build/**
+node_modules/**
+package-lock.json
+/contracts/.sol*
+artifacts/
+cache/
